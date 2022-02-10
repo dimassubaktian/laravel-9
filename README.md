@@ -14,6 +14,7 @@ Repositori ini berisikan laravel yang sudah berisi aplikasi laravel dengan logik
 - Download / Clone repository ini
 - Jalankan composer install
 - Buat Database
+- Copy dan rename .env.example menjadi .env
 - Isi Konfigurasi database pada .env
 - Jalakan migrasi
 
